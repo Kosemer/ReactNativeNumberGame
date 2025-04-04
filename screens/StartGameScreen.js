@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     padding: 16,
     marginTop: 100,
-    backgroundColor: "#72063c",
+    backgroundColor: "#0271F7",
     marginHorizontal: 24,
     borderRadius: 8,
     elevation: 4,
@@ -36,11 +36,13 @@ const styles = StyleSheet.create({
     height: 60,
     width: 50,
     fontSize: 32,
-    borderBottomColor: "#ddb52f",
+    borderBottomColor: "#fff",
     borderBottomWidth: 2,
-    color: "#ddb52f",
+    color: "black",
     marginVertical: 8,
     fontWeight: "bold",
     textAlign: "center",
+    backgroundColor: 'white',
+    borderRadius: 8
   },
 });
